@@ -8,7 +8,7 @@ scaler_name = 'scaler_moscow.pkl'
 nsample = 5
 nsample_forward = 5
 
-start_inference = datetime(2022, 6, 14)
+start_inference = datetime(2020, 6, 14)
 
 sma_window = 7
 targets = ['new_diagnoses_ema', 'Hospitalized_ema']
